@@ -13,6 +13,7 @@ public class BasePage {
 	}
 	//@Parameters("browser")
 	//here we add a new comment
+	// here we add 2nd comment for git hub
 		public static void initialization() 
 		{
 			//if(browser.equals("chrome")) {
