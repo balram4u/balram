@@ -12,6 +12,7 @@ public class BasePage {
 		
 	}
 	//@Parameters("browser")
+	//here we add a new comment
 		public static void initialization() 
 		{
 			//if(browser.equals("chrome")) {
